@@ -1,4 +1,4 @@
-package com.mg.starter.ui.theme
+package com.mg.skilltest.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

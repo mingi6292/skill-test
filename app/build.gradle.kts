@@ -4,10 +4,10 @@ plugins {
 }
 
 android {
-    namespace = "com.mg.starter"
+    namespace = "com.mg.skilltest"
 
     defaultConfig {
-        applicationId = "com.mg.starter"
+        applicationId = "com.mg.skilltest"
         versionCode = 1
         versionName = "1.0"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"

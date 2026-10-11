@@ -1,4 +1,4 @@
-package com.mg.starter
+package com.mg.skilltest
 
 import org.junit.Test
 

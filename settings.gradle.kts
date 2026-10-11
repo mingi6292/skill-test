@@ -23,6 +23,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Starter"
+rootProject.name = "SkillTest"
 include(":app")
  
